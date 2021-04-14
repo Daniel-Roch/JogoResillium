@@ -1,0 +1,23 @@
+body{
+    background: url(../../img/ceuu.jpg);
+    background-position: 1px;
+    background-size: 100%;
+}
+nav{
+    text-align: center;
+    color: white;
+    text-shadow:#000 2px 3px 5px;
+}
+.fala{
+    font-style: italic;
+}
+.questao {
+    font-size: 35px;
+    font-style: oblique;
+}
+nav .continua{
+    text-decoration: none;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-shadow:rgb(0, 0, 0) 2px 3px 5px;
+}
